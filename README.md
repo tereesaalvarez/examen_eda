@@ -1,7 +1,9 @@
 # EXAMEN EDA
 
-el link de este repositorio es el siguiente: [link]()
+el link de este repositorio es el siguiente: [link](https://github.com/tereesaalvarez/examen_eda.git)
 
+
+Usamos lo aprendido en clase para intentar resolver el ejercicio
 
 -------------------------------------------
 ### Preguntas
