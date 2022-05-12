@@ -1,6 +1,10 @@
-### EXAMEN EDA
+# EXAMEN EDA
 
-## preguntas
+el link de este repositorio es el siguiente: 
+
+
+-------------------------------------------
+### Preguntas
 
 * ¿Cuantas visitas recibe en el dia el cliente? ¿Cuántas de ellas convierten y cuantas no(en%)?
 
