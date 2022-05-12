@@ -64,7 +64,18 @@ output.to_csv('union.csv')
 union = pd.read_csv('union.csv')
 print(union)
 
+print('¿Cuantas visitas a la pagina ha recibido cada dia?')
+pd.value_counts(union['date'])
+print(pd.value_counts(union['date']))
+
+print('Por tipo de conversion(CALL o FORM) ¿cuántas hay de cada una?')
 pd.value_counts(union['lead_type'])
 print(pd.value_counts(union['lead_type']))
 
 # Hay 24 Call y 14 Form
+
+#usuario recurrente= el que visita la pagina mas de una vez
+
+
+
+
