@@ -77,5 +77,3 @@ print(pd.value_counts(union['lead_type']))
 #usuario recurrente= el que visita la pagina mas de una vez
 
 
-
-
